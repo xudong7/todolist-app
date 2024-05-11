@@ -10,3 +10,16 @@ and then run:
 
 to run react-js app
 
+if you want to create a new environment of react js app
+run:
+
+### `npx create-react-app <your-app-name>`
+
+then move your src to src in the new dir
+
+and then run:
+
+### `npm start`
+
+
+
