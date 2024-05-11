@@ -1,0 +1,27 @@
+.TodoList-container {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("D:/code/weblab/todolist-app/src/imgs/bpimg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+  font-size: 2em; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
+
+.input-container button {
+  font-size: 1.0em; 
+  /* padding: 0.5em 1em;  */
+}
+
+.input-container input {
+  font-size: 1.0em; 
+  /* padding: 0.5em;  */
+}
+
+.TodoList-container input[type="checkbox"] {
+  width: 1.5em; 
+  height: 1.5em;
+}

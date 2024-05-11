@@ -1,0 +1,16 @@
+.ListItem-checked {
+  color: gray;
+  text-decoration: line-through;
+}
+
+.ListItem-content {
+  margin: 0 5px;
+}
+
+.ListItem-container {
+  font-size: 2em; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
